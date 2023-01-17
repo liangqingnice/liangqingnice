@@ -1,1 +1,193 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T12:13:59.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="Njr-N9pxKVn0nzEk-0fv" type="github"><diagram id="uopmG9s76pvhgfo7f9Aj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-17T13:00:06.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="_eWjZW-D0vBRmacZj0f8" type="github">
+  <diagram id="hReEQrhp8xjskHQfLZln" name="第 1 页">
+    <mxGraphModel dx="2017" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-1" target="Lar_n_J6St0KVfiyi9VR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-1" value="进入首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="-799.75" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-2" target="Lar_n_J6St0KVfiyi9VR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-2" value="点击左上角家庭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="-800" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-5" target="Lar_n_J6St0KVfiyi9VR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-5" value="进入切换家庭列表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="-800" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-7" target="Lar_n_J6St0KVfiyi9VR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-7" value="点击家庭管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="-800" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-9" target="Lar_n_J6St0KVfiyi9VR-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="-698" />
+              <mxPoint x="-230" y="-698" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-9" value="点击新增家庭" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-712.5" width="120" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-13" target="Lar_n_J6St0KVfiyi9VR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-13" value="输入家庭名称&lt;br&gt;家庭位置" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="-724.37" width="100" height="56.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-15" target="Lar_n_J6St0KVfiyi9VR-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-15" value="点击保存" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-531" y="-708.75" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-19" target="Lar_n_J6St0KVfiyi9VR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-22" value="验证失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lar_n_J6St0KVfiyi9VR-21">
+          <mxGeometry x="-0.2372" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-19" target="Lar_n_J6St0KVfiyi9VR-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-25" value="验证成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lar_n_J6St0KVfiyi9VR-24">
+          <mxGeometry x="-0.2184" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-19" value="验证家庭信息&lt;br&gt;是否完整" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-539.25" y="-647.25" width="136.5" height="57.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-23" target="Lar_n_J6St0KVfiyi9VR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-30" value="点击某个家庭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lar_n_J6St0KVfiyi9VR-29">
+          <mxGeometry x="0.2251" y="2" relative="1" as="geometry">
+            <mxPoint x="-15" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-23" value="返回家庭&lt;br&gt;管理页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-526.5" y="-559" width="111" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-28" target="Lar_n_J6St0KVfiyi9VR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-28" value="可查看某个&lt;br&gt;家庭的信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="-560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="-480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-31" value="可以修改&lt;br&gt;家庭信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-554.75" width="80" height="30.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-37" target="Lar_n_J6St0KVfiyi9VR-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-37" value="点击家庭共享跳转邀请页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-38" target="Lar_n_J6St0KVfiyi9VR-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-42" value="选择某种邀请方式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lar_n_J6St0KVfiyi9VR-41">
+          <mxGeometry x="-0.2994" y="2" relative="1" as="geometry">
+            <mxPoint x="-7" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-38" value="可以通过手机号&lt;br&gt;邮箱邀请" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="-480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-40" target="Lar_n_J6St0KVfiyi9VR-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-48" value="点击确定按钮" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lar_n_J6St0KVfiyi9VR-47">
+          <mxGeometry x="-0.2343" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-40" value="输入对应的账号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-531" y="-472.5" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-46" target="Lar_n_J6St0KVfiyi9VR-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-51" value="验证成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lar_n_J6St0KVfiyi9VR-50">
+          <mxGeometry x="-0.2121" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-46" target="Lar_n_J6St0KVfiyi9VR-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-551" y="-360" />
+              <mxPoint x="-551" y="-464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-53" value="验证失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lar_n_J6St0KVfiyi9VR-52">
+          <mxGeometry x="-0.204" y="-3" relative="1" as="geometry">
+            <mxPoint y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-46" value="验证是否是&lt;br&gt;已注册的账户" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-525.5" y="-390" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-49" target="Lar_n_J6St0KVfiyi9VR-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-49" value="返回上一页&lt;br&gt;查看到共享成员信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="-380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-56" target="Lar_n_J6St0KVfiyi9VR-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-56" value="邀请错误可以&lt;br&gt;试试删除操作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="-380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-58" target="Lar_n_J6St0KVfiyi9VR-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-58" value="添加家庭信息&lt;br&gt;可以删除重新添加" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="-290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-60" target="Lar_n_J6St0KVfiyi9VR-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-60" value="返回切换家庭页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-331.5" y="-282.5" width="101" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lar_n_J6St0KVfiyi9VR-64" target="Lar_n_J6St0KVfiyi9VR-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-390" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-72" value="切换成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lar_n_J6St0KVfiyi9VR-71">
+          <mxGeometry x="-0.3333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-64" value="点击某个家庭&lt;br&gt;可以切换家庭" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lar_n_J6St0KVfiyi9VR-69" value="流程结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-496.5" y="-180" width="93" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
