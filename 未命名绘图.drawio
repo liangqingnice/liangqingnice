@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T12:03:51.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4YC0qf8ywh0DgwBEZKVH" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T12:07:37.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ohceAiTK41xP4re85czw" version="20.8.5" type="github">
   <diagram id="eP0NxSscDDGJ58uZAJaf" name="第 1 页">
     <mxGraphModel dx="1687" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="none" math="0" shadow="1">
       <root>
@@ -212,7 +212,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RkrsoEIwY2bKPOii9j_3-54" value="邮箱注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="1029" width="120" height="40" as="geometry" />
+          <mxGeometry x="582" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RkrsoEIwY2bKPOii9j_3-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="RkrsoEIwY2bKPOii9j_3-56" target="RkrsoEIwY2bKPOii9j_3-58">
           <mxGeometry relative="1" as="geometry" />
@@ -229,7 +229,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RkrsoEIwY2bKPOii9j_3-58" value="点击获取验证码&lt;br&gt;(邮箱接收)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="599.75" y="1257.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="582" y="1257.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RkrsoEIwY2bKPOii9j_3-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RkrsoEIwY2bKPOii9j_3-60" target="RkrsoEIwY2bKPOii9j_3-62">
           <mxGeometry relative="1" as="geometry">
@@ -281,9 +281,8 @@
         <mxCell id="RkrsoEIwY2bKPOii9j_3-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="RkrsoEIwY2bKPOii9j_3-73" target="RkrsoEIwY2bKPOii9j_3-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="1567" />
-              <mxPoint x="850" y="1050" />
-              <mxPoint x="656" y="1050" />
+              <mxPoint x="880" y="1567" />
+              <mxPoint x="880" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
