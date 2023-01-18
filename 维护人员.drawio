@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T06:07:46.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="l4nP1fpVVZDt8X1CcaaP" type="github"><diagram id="sgB9q2YNWE9YOrm1I2UQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-18T06:09:48.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="OT9cL9jR4OAZ86gb_il3" type="github">
+  <diagram id="lv6y3HOWARLc4oGIx617" name="第 1 页">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOfYAzPXJ3_C5ijf1B_O-2" target="tOfYAzPXJ3_C5ijf1B_O-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-2" value="维护人员操作流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOfYAzPXJ3_C5ijf1B_O-4" target="tOfYAzPXJ3_C5ijf1B_O-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="60" />
+              <mxPoint x="460" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-4" value="输入账号密码&lt;br&gt;及验证码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOfYAzPXJ3_C5ijf1B_O-9" target="tOfYAzPXJ3_C5ijf1B_O-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="528" y="10" />
+              <mxPoint x="360" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-6" value="验证失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tOfYAzPXJ3_C5ijf1B_O-5">
+          <mxGeometry x="-0.1822" relative="1" as="geometry">
+            <mxPoint x="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOfYAzPXJ3_C5ijf1B_O-9" target="tOfYAzPXJ3_C5ijf1B_O-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-8" value="验证成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tOfYAzPXJ3_C5ijf1B_O-7">
+          <mxGeometry x="-0.2222" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-9" value="验证登录信息&lt;br&gt;是完整" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="473" y="20" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOfYAzPXJ3_C5ijf1B_O-11" target="tOfYAzPXJ3_C5ijf1B_O-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-11" value="登录管理员账号&lt;br&gt;（可以切换语言）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOfYAzPXJ3_C5ijf1B_O-14" target="tOfYAzPXJ3_C5ijf1B_O-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-13" value="点击设备管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tOfYAzPXJ3_C5ijf1B_O-12">
+          <mxGeometry x="-0.2727" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-14" value="代理商拥有&lt;br&gt;产品管理模块的&lt;br&gt;设备管理功能" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOfYAzPXJ3_C5ijf1B_O-16" target="tOfYAzPXJ3_C5ijf1B_O-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-16" value="设备管理&lt;br&gt;新增、修改、删除、查看终端运行日志&lt;br&gt;设置属性" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-17" value="维护人员操&lt;br&gt;作流程结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
