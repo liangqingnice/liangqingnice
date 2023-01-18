@@ -1,9 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T02:36:13.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" version="20.8.5" etag="bahkyLZ7UJikDMBG_heW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T02:59:50.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="mTc4D7hRuE8FANXqGin8" version="20.8.5" type="github">
   <diagram id="lmQEAkhLfT_waERBNr0Z" name="第 1 页">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-1" target="uSufiUhOWlxEMkH4Zf14-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-1" value="企业人员角色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-8" target="uSufiUhOWlxEMkH4Zf14-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-8" value="企业人员拥有产品管理的权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-10" target="uSufiUhOWlxEMkH4Zf14-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-10" value="登录企业人员账号（可以切换语言）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-15" value="点击登录" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-12" target="uSufiUhOWlxEMkH4Zf14-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-12" value="输入账号密码及验证码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-16" value="验证失败" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-14" target="uSufiUhOWlxEMkH4Zf14-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="240" />
+              <mxPoint x="740" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-18" value="验证成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-14" target="uSufiUhOWlxEMkH4Zf14-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-14" value="验证登录信息完整" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-20" value="点击及产品管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-17" target="uSufiUhOWlxEMkH4Zf14-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-17" value="进入首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-22" value="点击生产厂商" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-19" target="uSufiUhOWlxEMkH4Zf14-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-19" value="显示设备分类、生产厂商、设备管理三个菜单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-25" value="点击设备分类" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-21" target="uSufiUhOWlxEMkH4Zf14-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-21" value="可以查看所有的生产厂商。可以修改排序以及设置是否启用" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-27" value="点击设备管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-24" target="uSufiUhOWlxEMkH4Zf14-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-24" value="可以查看设备所有分类，可以修改排序以及设置是否启用" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-26" target="uSufiUhOWlxEMkH4Zf14-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-26" value="可以查看所有设备，可以按条件搜索设备，也可以新增、修改、删除设备" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-30" value="企业人员产品管理流程结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
