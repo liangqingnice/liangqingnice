@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T03:00:03.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="K43JM8EHShf7iCtB6A9x" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T03:10:47.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="mG5vv14zqCI1e0oJZBTF" version="20.8.5" type="github">
   <diagram id="lmQEAkhLfT_waERBNr0Z" name="第 1 页">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="uSufiUhOWlxEMkH4Zf14-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-8" target="uSufiUhOWlxEMkH4Zf14-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uSufiUhOWlxEMkH4Zf14-8" value="企业人员拥有产品管理的权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-8" value="企业人员拥有产品管理的设备分类、生产厂商、设备管理的&lt;br&gt;权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uSufiUhOWlxEMkH4Zf14-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-10" target="uSufiUhOWlxEMkH4Zf14-12">
@@ -45,7 +45,7 @@
         <mxCell id="uSufiUhOWlxEMkH4Zf14-20" value="点击及产品管理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-17" target="uSufiUhOWlxEMkH4Zf14-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uSufiUhOWlxEMkH4Zf14-17" value="进入首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uSufiUhOWlxEMkH4Zf14-17" value="进入首页，左侧显示首页和产品管理菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uSufiUhOWlxEMkH4Zf14-22" value="点击生产厂商" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uSufiUhOWlxEMkH4Zf14-19" target="uSufiUhOWlxEMkH4Zf14-21">
