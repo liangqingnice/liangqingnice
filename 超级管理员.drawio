@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T02:38:27.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="-KHxu7q0WenHXgik74nH" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T06:14:49.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="46JnK-iaci7PVtF-Mi0z" type="github">
   <diagram id="axPUEfDd3poNw5d9vAM8" name="第 1 页">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="CcthXf6Rq4CzhCNJ3_eb-37" value="超级管理员&lt;br&gt;添加账号流程结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry y="487.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CcthXf6Rq4CzhCNJ3_eb-39" value="登录超级&lt;br&gt;管理员账号&lt;br&gt;（可以切换语言）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
