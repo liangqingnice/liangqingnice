@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T06:09:48.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="OT9cL9jR4OAZ86gb_il3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T06:10:24.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="Ia488JwlKu-oiqb7P5F4" type="github">
   <diagram id="lv6y3HOWARLc4oGIx617" name="第 1 页">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
             <mxPoint x="420" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-11" value="登录管理员账号&lt;br&gt;（可以切换语言）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-11" value="登录维护人员账号&lt;br&gt;（可以切换语言）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tOfYAzPXJ3_C5ijf1B_O-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOfYAzPXJ3_C5ijf1B_O-14" target="tOfYAzPXJ3_C5ijf1B_O-16">
@@ -63,7 +63,7 @@
             <mxPoint x="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-14" value="代理商拥有&lt;br&gt;产品管理模块的&lt;br&gt;设备管理功能" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tOfYAzPXJ3_C5ijf1B_O-14" value="维护人员拥有&lt;br&gt;产品管理模块的&lt;br&gt;设备管理功能" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tOfYAzPXJ3_C5ijf1B_O-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOfYAzPXJ3_C5ijf1B_O-16" target="tOfYAzPXJ3_C5ijf1B_O-17">
