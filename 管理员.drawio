@@ -1,1 +1,308 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T02:43:57.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="wg000UtT9gagRqzIjjOO" type="github"><diagram id="UNg-YtovFtNW0v5xE-1t">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-18T03:59:21.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="ZHR3w9MBWzzpuJllSl4N" type="github">
+  <diagram id="He0SEStnqJXQXfe2WKV-" name="第 1 页">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-1" target="iv3oXJ3KVnBWPSOKChuB-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-1" value="管理员操作流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="54" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-6" target="iv3oXJ3KVnBWPSOKChuB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-6" value="输入账号密码&lt;br&gt;及验证码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="44" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-10" target="iv3oXJ3KVnBWPSOKChuB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-15" value="验证失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-14">
+          <mxGeometry x="-0.1822" relative="1" as="geometry">
+            <mxPoint x="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-10" target="iv3oXJ3KVnBWPSOKChuB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-19" value="验证成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-18">
+          <mxGeometry x="-0.3016" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-10" value="验证登录信息&lt;br&gt;是完整" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="34" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-11" target="iv3oXJ3KVnBWPSOKChuB-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-11" value="登录管理员账号&lt;br&gt;（可以切换语言）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="44" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-17" target="iv3oXJ3KVnBWPSOKChuB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-17" value="进入后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-20" target="iv3oXJ3KVnBWPSOKChuB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-24" value="进入用户管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-23">
+          <mxGeometry x="-0.2923" y="1" relative="1" as="geometry">
+            <mxPoint x="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-20" value="管理员拥有&lt;br&gt;用户管理、产品管理&lt;br&gt;版本升级、告警管理&lt;br&gt;数据监控、内容管理&lt;br&gt;语言管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="144" width="115" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-22" target="iv3oXJ3KVnBWPSOKChuB-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="250" />
+              <mxPoint x="90" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-27" value="点击列表内的代理商信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-26">
+          <mxGeometry x="-0.1923" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-22" target="iv3oXJ3KVnBWPSOKChuB-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="191" />
+              <mxPoint x="20" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-102" value="进入维护人员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-101">
+          <mxGeometry x="0.3692" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-22" value="进入企业用户&lt;br&gt;可以查看、新增、修改、删除企业信息，&lt;br&gt;可以查看代理商信息&lt;br&gt;设备信息、用户信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="146" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-25" target="iv3oXJ3KVnBWPSOKChuB-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-34" value="点击设备信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-33">
+          <mxGeometry x="-0.22" y="1" relative="1" as="geometry">
+            <mxPoint x="2" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-25" value="跳转代理商信息页面&lt;br&gt;可以新增修改删除代理商信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-32" target="iv3oXJ3KVnBWPSOKChuB-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="320" />
+              <mxPoint x="410" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-32" target="iv3oXJ3KVnBWPSOKChuB-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-48" value="没有设备分类" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-47">
+          <mxGeometry x="-0.25" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-32" value="跳转至设备管理&lt;br&gt;可以新增修改删除&lt;br&gt;导入导出设备信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-36" target="iv3oXJ3KVnBWPSOKChuB-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-40" value="点击某行设备属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-39">
+          <mxGeometry x="-0.2364" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-36" value="添加修改设备信息时&lt;br&gt;SN码是唯一的，设备id也是唯一的&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-38" target="iv3oXJ3KVnBWPSOKChuB-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-43" value="点击行内客户端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-42">
+          <mxGeometry x="-0.2571" y="-2" relative="1" as="geometry">
+            <mxPoint x="-16" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-38" value="可以添加产品&lt;br&gt;的相关参数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-41" target="iv3oXJ3KVnBWPSOKChuB-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-60" value="进入版本升级菜单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-45">
+          <mxGeometry x="-0.26" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-41" value="可以查看客户端&lt;br&gt;的日志信息，也可以删除信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-44" target="iv3oXJ3KVnBWPSOKChuB-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-64" value="进入告警管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-62">
+          <mxGeometry x="-0.1846" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-44" value="硬件程序升级&lt;br&gt;（新增修改删除）&lt;br&gt;APP软件升级&lt;br&gt;（新增修改删除）&lt;br&gt;可以上传升级所需的文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="630" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="460" />
+              <mxPoint x="240" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-50" value="继续添加设备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-49">
+          <mxGeometry x="0.3765" relative="1" as="geometry">
+            <mxPoint x="-10" y="127" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-46" target="iv3oXJ3KVnBWPSOKChuB-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-53" value="没有代理商" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-52">
+          <mxGeometry x="-0.2069" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-46" value="进入产品管理-&amp;gt;设备管理，可以新增修改删除设备的分类&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="414" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-51" target="iv3oXJ3KVnBWPSOKChuB-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="550" />
+              <mxPoint x="240" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-51" target="iv3oXJ3KVnBWPSOKChuB-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-58" value="没有型号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-57">
+          <mxGeometry x="-0.2889" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-51" value="进入产品管理-&amp;gt;生产厂商，可以新增修改删除是否启用厂商" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-56" target="iv3oXJ3KVnBWPSOKChuB-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="660" />
+              <mxPoint x="240" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-56" value="进入产品管理-&amp;gt;产品型号，可以新增、修改、删除、是否启用、排序产品型号&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-61" target="iv3oXJ3KVnBWPSOKChuB-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-78" value="进入数据监控" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-77">
+          <mxGeometry x="-0.25" y="2" relative="1" as="geometry">
+            <mxPoint x="-16" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-61" value="设备告警&lt;br&gt;可以查看 告警统计&lt;br&gt;处理警告删除警告" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-76" target="iv3oXJ3KVnBWPSOKChuB-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-81" value="点击家庭导航某个家庭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-80">
+          <mxGeometry x="-0.2667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-76" value="输入用户账号&lt;br&gt;即可搜索当前账号&lt;br&gt;所有家庭的设备及&lt;br&gt;发电信息输出功率" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-79" target="iv3oXJ3KVnBWPSOKChuB-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-110" value="进入内容管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-109">
+          <mxGeometry x="-0.2444" y="-1" relative="1" as="geometry">
+            <mxPoint x="5" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-79" value="可以查看家庭&lt;br&gt;的基本信息和&lt;br&gt;发电量设备状态&lt;br&gt;以及设备的统计" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.376;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-91" target="iv3oXJ3KVnBWPSOKChuB-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-112" value="进入翻译管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-111">
+          <mxGeometry x="-0.226" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-91" value="单篇图文可以设置&lt;br&gt;隐私协议等内容&lt;br&gt;图片管理&lt;br&gt;可以推荐产品&lt;br&gt;币种管理可以查看币种" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="832.5" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-92" target="iv3oXJ3KVnBWPSOKChuB-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-92" value="翻译管理&lt;br&gt;（新增修改删除、&lt;br&gt;翻译内容）&lt;br&gt;语言管理&lt;br&gt;（新增修改&lt;br&gt;删除语种）&lt;br&gt;电话区号&lt;br&gt;（新增修改删除）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="826" width="110" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-95" value="管理操作流程结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-100" target="iv3oXJ3KVnBWPSOKChuB-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-105" value="进入终端用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-104">
+          <mxGeometry x="-0.24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-100" value="可以新增删除修改&lt;br&gt;维护人员的&lt;br&gt;信息及状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv3oXJ3KVnBWPSOKChuB-103" target="iv3oXJ3KVnBWPSOKChuB-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-108" value="进入家庭管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv3oXJ3KVnBWPSOKChuB-107">
+          <mxGeometry x="-0.2727" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-103" value="可以查看终端用户详情导出删除终端用户" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv3oXJ3KVnBWPSOKChuB-106" value="可以修改&lt;br&gt;家庭信息删除&lt;br&gt;查看设备数量以及成员数量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
