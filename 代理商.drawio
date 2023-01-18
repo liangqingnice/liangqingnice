@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T06:00:30.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="NgySr5G6MFzUe4Cthur0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T06:10:44.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="LOaoNTefeZvM0l8nWP2a" type="github">
   <diagram id="M1XdzcnIJ74CxBj7G2HJ" name="第 1 页">
-    <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
             <mxPoint x="420" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mAJpuUWmIjtx5MhwzDES-17" value="登录管理员账号&lt;br&gt;（可以切换语言）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mAJpuUWmIjtx5MhwzDES-17" value="登录代理商账号&lt;br&gt;（可以切换语言）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mAJpuUWmIjtx5MhwzDES-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mAJpuUWmIjtx5MhwzDES-18" target="mAJpuUWmIjtx5MhwzDES-22">
