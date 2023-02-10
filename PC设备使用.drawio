@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T09:28:51.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.18" etag="QsV14efokYXRWUbfP02s" type="github"><diagram name="第 1 页" id="wZ0PvxDA36tKDDUn7XYi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-10T09:39:56.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="HJHN3QJJAkBTKjdBBhUK" version="20.8.18" type="github">
+  <diagram name="第 1 页" id="wZ0PvxDA36tKDDUn7XYi">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_8AGnbuWJsJX3Nl59jU-62" target="h_8AGnbuWJsJX3Nl59jU-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="326" />
+              <mxPoint x="440" y="326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_8AGnbuWJsJX3Nl59jU-62" target="h_8AGnbuWJsJX3Nl59jU-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-61" value="没有设备分类" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h_8AGnbuWJsJX3Nl59jU-60">
+          <mxGeometry x="-0.25" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-62" value="跳转至设备管理&lt;br&gt;可以新增修改删除&lt;br&gt;导入导出设备信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="296" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_8AGnbuWJsJX3Nl59jU-65" target="h_8AGnbuWJsJX3Nl59jU-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-64" value="点击某行设备属性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h_8AGnbuWJsJX3Nl59jU-63">
+          <mxGeometry x="-0.2364" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-65" value="添加修改设备信息时&lt;br&gt;SN码是唯一的，设备id也是唯一的&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="296" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_8AGnbuWJsJX3Nl59jU-68" target="h_8AGnbuWJsJX3Nl59jU-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-67" value="点击行内客户端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h_8AGnbuWJsJX3Nl59jU-66">
+          <mxGeometry x="-0.2571" y="-2" relative="1" as="geometry">
+            <mxPoint x="-16" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-68" value="可以添加产品&lt;br&gt;的相关参数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="406" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_8AGnbuWJsJX3Nl59jU-71" target="h_8AGnbuWJsJX3Nl59jU-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="636" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-71" value="可以查看客户端&lt;br&gt;的日志信息，也可以删除信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="526" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_8AGnbuWJsJX3Nl59jU-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="326" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="466" />
+              <mxPoint x="200" y="326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-76" value="继续添加设备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h_8AGnbuWJsJX3Nl59jU-75">
+          <mxGeometry x="0.3765" relative="1" as="geometry">
+            <mxPoint x="-10" y="127" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_8AGnbuWJsJX3Nl59jU-79" target="h_8AGnbuWJsJX3Nl59jU-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-78" value="没有代理商" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h_8AGnbuWJsJX3Nl59jU-77">
+          <mxGeometry x="-0.2069" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-79" value="进入产品管理-&amp;gt;设备管理，可以新增修改删除设备的分类&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h_8AGnbuWJsJX3Nl59jU-83" target="h_8AGnbuWJsJX3Nl59jU-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="556" />
+              <mxPoint x="130" y="326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h_8AGnbuWJsJX3Nl59jU-83" target="h_8AGnbuWJsJX3Nl59jU-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-82" value="没有型号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h_8AGnbuWJsJX3Nl59jU-81">
+          <mxGeometry x="-0.2889" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-83" value="进入产品管理-&amp;gt;生产厂商，可以新增修改删除是否启用厂商" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="526" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h_8AGnbuWJsJX3Nl59jU-85" target="h_8AGnbuWJsJX3Nl59jU-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="666" />
+              <mxPoint x="60" y="326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-85" value="进入产品管理-&amp;gt;产品型号，可以新增、修改、删除、是否启用、排序产品型号&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="636" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-100" value="设备管理操作结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="636" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_8AGnbuWJsJX3Nl59jU-109" target="h_8AGnbuWJsJX3Nl59jU-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_8AGnbuWJsJX3Nl59jU-109" value="设备管理操作开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
