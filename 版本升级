@@ -1,22 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T11:30:33.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rVgeun3G1l8GjEJnap8w" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T11:56:40.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2TWPgYynz4U98hgxexdD" version="20.8.18" type="github">
   <diagram name="第 1 页" id="pMmHzWY5x5h6A3Rv7Y6p">
     <mxGraphModel dx="1434" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ft2J9YBti_BoIcmQKvct-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Ft2J9YBti_BoIcmQKvct-1" target="Ft2J9YBti_BoIcmQKvct-4">
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" target="Ft2J9YBti_BoIcmQKvct-4">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="136" y="460" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="240" y="460" />
-              <mxPoint x="240" y="105" />
+              <mxPoint x="196" y="460" />
+              <mxPoint x="196" y="105" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ft2J9YBti_BoIcmQKvct-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Ft2J9YBti_BoIcmQKvct-1" target="Ft2J9YBti_BoIcmQKvct-6">
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" target="Ft2J9YBti_BoIcmQKvct-6">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="136" y="460" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="240" y="460" />
-              <mxPoint x="240" y="645" />
+              <mxPoint x="196" y="460" />
+              <mxPoint x="196" y="645" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -24,7 +26,12 @@
           <mxGeometry x="60" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ft2J9YBti_BoIcmQKvct-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.411;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Ft2J9YBti_BoIcmQKvct-4" target="Ft2J9YBti_BoIcmQKvct-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="105" />
+              <mxPoint x="390" y="67" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ft2J9YBti_BoIcmQKvct-24" value="新增" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="Ft2J9YBti_BoIcmQKvct-21">
           <mxGeometry x="0.7276" y="1" relative="1" as="geometry">
@@ -34,48 +41,127 @@
         <mxCell id="Ft2J9YBti_BoIcmQKvct-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Ft2J9YBti_BoIcmQKvct-4" target="Ft2J9YBti_BoIcmQKvct-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="105" />
-              <mxPoint x="470" y="210" />
-              <mxPoint x="560" y="210" />
+              <mxPoint x="390" y="105" />
+              <mxPoint x="390" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ft2J9YBti_BoIcmQKvct-25" value="修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="Ft2J9YBti_BoIcmQKvct-22">
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-25" value="删除" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="Ft2J9YBti_BoIcmQKvct-22">
           <mxGeometry x="0.7469" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ft2J9YBti_BoIcmQKvct-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Ft2J9YBti_BoIcmQKvct-4" target="Ft2J9YBti_BoIcmQKvct-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="105" />
+              <mxPoint x="390" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Ft2J9YBti_BoIcmQKvct-26" value="删除" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="Ft2J9YBti_BoIcmQKvct-23">
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-26" value="修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="Ft2J9YBti_BoIcmQKvct-23">
           <mxGeometry x="0.831" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ft2J9YBti_BoIcmQKvct-4" value="硬件升级" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="290" y="80" width="90" height="50" as="geometry" />
+          <mxGeometry x="246" y="80" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Ft2J9YBti_BoIcmQKvct-6" target="Ft2J9YBti_BoIcmQKvct-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-37" value="新增" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="Ft2J9YBti_BoIcmQKvct-33">
+          <mxGeometry x="0.8567" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Ft2J9YBti_BoIcmQKvct-6" target="Ft2J9YBti_BoIcmQKvct-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-38" value="修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="Ft2J9YBti_BoIcmQKvct-34">
+          <mxGeometry x="0.7436" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Ft2J9YBti_BoIcmQKvct-6" target="Ft2J9YBti_BoIcmQKvct-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-39" value="删除&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="Ft2J9YBti_BoIcmQKvct-36">
+          <mxGeometry x="0.7551" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ft2J9YBti_BoIcmQKvct-6" value="应用升级" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="290" y="620" width="100" height="50" as="geometry" />
+          <mxGeometry x="246" y="620" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ft2J9YBti_BoIcmQKvct-8" value="选择产品&lt;br&gt;输入固件版本&lt;br&gt;输入版本说明&lt;br&gt;是否强制升级&lt;br&gt;选择升级文件" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="570" y="30" width="140" height="90" as="geometry" />
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" target="Ft2J9YBti_BoIcmQKvct-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593" y="75" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Ft2J9YBti_BoIcmQKvct-14" value="&lt;br&gt;输入版本说明&lt;br&gt;是否强制升级&lt;br&gt;选择升级文件" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="570" y="260" width="140" height="60" as="geometry" />
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-8" value="选择默认语言&lt;br&gt;选择产品&lt;br&gt;输入固件版本&lt;br&gt;输入版本说明&lt;br&gt;是否强制升级&lt;br&gt;选择升级文件" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="476" y="30" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" target="Ft2J9YBti_BoIcmQKvct-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-14" value="选择语言&lt;br&gt;输入版本说明&lt;br&gt;是否强制升级&lt;br&gt;选择升级文件" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="476" y="260" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="743" y="170" as="targetPoint" />
+            <mxPoint x="608" y="170" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="633" y="170" />
+              <mxPoint x="633" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ft2J9YBti_BoIcmQKvct-17" value="确认删除后立马删除" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="570" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="476" y="150" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ft2J9YBti_BoIcmQKvct-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" target="Ft2J9YBti_BoIcmQKvct-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="603" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="680" y="480" />
+              <mxPoint x="680" y="590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Ft2J9YBti_BoIcmQKvct-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-30" value="选择语言&lt;br&gt;选择平台类型&lt;br&gt;选择关联应用&lt;br&gt;输入版本名称&lt;br&gt;输入版本号&lt;br&gt;输入版本描述&lt;br&gt;选择审核状态&lt;br&gt;选择强制更新&lt;br&gt;上传打包文件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="476" y="410" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Ft2J9YBti_BoIcmQKvct-32" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="560" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Ft2J9YBti_BoIcmQKvct-31" target="Ft2J9YBti_BoIcmQKvct-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="590" />
+              <mxPoint x="710" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-31" value="选择语言&lt;br&gt;输入版本描述&lt;br&gt;变更审核状态&lt;br&gt;选择是否强制更新&lt;br&gt;上传文件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="476" y="580" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Ft2J9YBti_BoIcmQKvct-32" target="Ft2J9YBti_BoIcmQKvct-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="720" />
+              <mxPoint x="680" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-32" value="确认后立马删除" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="476" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-40" value="硬件升级结束" style="rounded=1;whiteSpace=wrap;html=1;portConstraintRotation=0;noLabel=0;metaEdit=0;backgroundOutline=0;dropTarget=0;collapsible=0;fixDash=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2J9YBti_BoIcmQKvct-41" value="应用升级结束" style="rounded=1;whiteSpace=wrap;html=1;portConstraintRotation=0;noLabel=0;metaEdit=0;backgroundOutline=0;dropTarget=0;collapsible=0;fixDash=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
